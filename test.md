@@ -1,1 +1,0 @@
-đây là 1 dòng add vào, sau khi tạo file 
